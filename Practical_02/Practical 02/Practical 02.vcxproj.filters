@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program.c">
+    <ClCompile Include="Calculate_Charges.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Question_03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
